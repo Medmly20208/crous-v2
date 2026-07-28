@@ -33,8 +33,8 @@ from playwright.sync_api import sync_playwright
 # ---- SEARCH CONFIG ----
 URL = (
     "https://trouverunlogement.lescrous.fr/tools/47/search"
-    "?bounds=5.2286902_43.3910329_5.5324758_43.1696205"
-    "&locationName=Marseille+%2813000%29"
+    "?bounds=6.134292_48.7092349_6.2126188_48.666906"
+    "&locationName=Nancy+%2854000%29"
 )
 PAGE_LOADED_TEXT = "Mon logement pour"
 NO_RESULTS_TEXT = "aucun logement trouvé pour lyon"
